@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "MindBox_Task/1.0.0": {
+        "dependencies": {
+          "CalculateAreaLib": "1.0.0"
+        },
+        "runtime": {
+          "MindBox_Task.dll": {}
+        }
+      },
+      "CalculateAreaLib/1.0.0": {
+        "runtime": {
+          "CalculateAreaLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MindBox_Task/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CalculateAreaLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
